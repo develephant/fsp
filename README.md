@@ -2,7 +2,7 @@
 
 ### A simple Promise wrapper for fs-extra.
 
-![js-badge](https://img.shields.io/badge/javascript-es2017-brightgreen.svg)
+![js-badge](https://img.shields.io/badge/javascript-ES2017-brightgreen.svg)
 ![node-badge](https://img.shields.io/badge/node-v7-brightgreen.svg)
 
 ## Install
