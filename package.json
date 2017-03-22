@@ -15,7 +15,7 @@
     "async",
     "await",
     "fs",
-    "fs-extras"
+    "fs-extra"
   ],
   "author": "develephant <code@develephant.com> (http://www.develephant.com/)",
   "license": "MIT",
