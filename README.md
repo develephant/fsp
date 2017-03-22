@@ -1,6 +1,6 @@
 # `fsp`
 
-### A simple Promise wrapper for fs-extras.
+### A simple Promise wrapper for fs-extra.
 
 ## Install
 
