@@ -1,6 +1,6 @@
 {
   "name": "@develephant/fsp",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A simple Promise wrapper for fs-extras.",
   "main": "index.js",
   "scripts": {
